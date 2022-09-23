@@ -1,0 +1,19 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "movies",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Hagar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "json": "^11.0.0",
+    "knex": "^2.2.0",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1"
+  }
+}
